@@ -1,4 +1,4 @@
-# Chennai Shortest Path-
+# Chennai Shortest Path
 
 🌟 Implemented Dijkstra’s algorithm to find the shortest path between locations
 in Chennai.
